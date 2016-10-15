@@ -16,7 +16,7 @@
 # Product-specific compile-time definitions.
 #
 
-LOCAL_PATH := device/lenovo/msm8916
+LOCAL_PATH := device/lenovo/wt86518
 
 TARGET_BOARD_VENDOR := lenovo
 
@@ -82,3 +82,6 @@ TW_DEFAULT_EXTERNAL_STORAGE := true
 TW_BRIGHTNESS_PATH := /sys/class/leds/lcd-backlight/brightness
 TW_INCLUDE_CRYPTO := true
 TW_THEME := portrait_hdpi
+
+# Asian region languages
+TW_EXTRA_LANGUAGES := true
