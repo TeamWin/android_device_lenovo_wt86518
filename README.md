@@ -1,4 +1,3 @@
-# android_device_lenovo_msm8916-twrp
 Team Win Recovery Project
 
 Device configuration for Lenovo K30-T (Kraft-T)
