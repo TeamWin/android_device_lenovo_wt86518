@@ -16,7 +16,7 @@
 # Product-specific compile-time definitions.
 #
 
-LOCAL_PATH := $(call my-dir)
+LOCAL_PATH := device/lenovo/wt86518
 
 TARGET_BOARD_VENDOR := lenovo
 
