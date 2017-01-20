@@ -81,3 +81,6 @@ TW_THEME := portrait_hdpi
 
 # Asian region languages
 TW_EXTRA_LANGUAGES := true
+
+# Disable Mouse Cursor
+TW_INPUT_BLACKLIST := "hbtp_vm"
