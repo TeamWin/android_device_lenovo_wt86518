@@ -16,7 +16,7 @@
 # Product-specific compile-time definitions.
 #
 
-LOCAL_PATH := device/lenovo/wt86518
+LOCAL_PATH := device/lenovo/a6000
 
 TARGET_BOARD_VENDOR := lenovo
 
@@ -79,7 +79,7 @@ TW_DEFAULT_EXTERNAL_STORAGE := true
 TW_BRIGHTNESS_PATH := /sys/class/leds/lcd-backlight/brightness
 TW_INCLUDE_CRYPTO := true
 TW_THEME := portrait_hdpi
-COMMON_GLOBAL_CFLAGS += -DNO_SECURE_DISCARD
+TARGET_GLOBAL_CFLAGS += -DNO_SECURE_DISCARD
 
 # Asian region languages
 TW_EXTRA_LANGUAGES := true

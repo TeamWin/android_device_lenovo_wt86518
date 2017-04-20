@@ -1,6 +1,6 @@
 Team Win Recovery Project
 
-Device configuration for Lenovo K30-T (Kraft-T)
+Device configuration for Lenovo A6000 (A6000s)
 =====================================
 
 Basic   | Spec Sheet
